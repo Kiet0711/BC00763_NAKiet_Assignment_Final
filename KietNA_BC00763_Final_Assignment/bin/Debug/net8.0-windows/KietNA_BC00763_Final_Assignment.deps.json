@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "KietNA_BC00763_Final_Assignment/1.0.0": {
+        "runtime": {
+          "KietNA_BC00763_Final_Assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KietNA_BC00763_Final_Assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

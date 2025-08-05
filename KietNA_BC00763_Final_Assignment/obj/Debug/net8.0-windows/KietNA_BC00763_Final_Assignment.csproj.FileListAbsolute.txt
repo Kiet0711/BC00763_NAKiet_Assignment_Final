@@ -1,0 +1,17 @@
+C:\COM\Final Assiment\KietNA_BC00763_Final_Assignment\KietNA_BC00763_Final_Assignment\bin\Debug\net8.0-windows\KietNA_BC00763_Final_Assignment.exe
+C:\COM\Final Assiment\KietNA_BC00763_Final_Assignment\KietNA_BC00763_Final_Assignment\bin\Debug\net8.0-windows\KietNA_BC00763_Final_Assignment.deps.json
+C:\COM\Final Assiment\KietNA_BC00763_Final_Assignment\KietNA_BC00763_Final_Assignment\bin\Debug\net8.0-windows\KietNA_BC00763_Final_Assignment.runtimeconfig.json
+C:\COM\Final Assiment\KietNA_BC00763_Final_Assignment\KietNA_BC00763_Final_Assignment\bin\Debug\net8.0-windows\KietNA_BC00763_Final_Assignment.dll
+C:\COM\Final Assiment\KietNA_BC00763_Final_Assignment\KietNA_BC00763_Final_Assignment\bin\Debug\net8.0-windows\KietNA_BC00763_Final_Assignment.pdb
+C:\COM\Final Assiment\KietNA_BC00763_Final_Assignment\KietNA_BC00763_Final_Assignment\obj\Debug\net8.0-windows\KietNA_BC00763_Final_Assignment.Form1.resources
+C:\COM\Final Assiment\KietNA_BC00763_Final_Assignment\KietNA_BC00763_Final_Assignment\obj\Debug\net8.0-windows\KietNA_BC00763_Final_Assignment.csproj.GenerateResource.cache
+C:\COM\Final Assiment\KietNA_BC00763_Final_Assignment\KietNA_BC00763_Final_Assignment\obj\Debug\net8.0-windows\KietNA_BC00763_Final_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\COM\Final Assiment\KietNA_BC00763_Final_Assignment\KietNA_BC00763_Final_Assignment\obj\Debug\net8.0-windows\KietNA_BC00763_Final_Assignment.AssemblyInfoInputs.cache
+C:\COM\Final Assiment\KietNA_BC00763_Final_Assignment\KietNA_BC00763_Final_Assignment\obj\Debug\net8.0-windows\KietNA_BC00763_Final_Assignment.AssemblyInfo.cs
+C:\COM\Final Assiment\KietNA_BC00763_Final_Assignment\KietNA_BC00763_Final_Assignment\obj\Debug\net8.0-windows\KietNA_BC00763_Final_Assignment.csproj.CoreCompileInputs.cache
+C:\COM\Final Assiment\KietNA_BC00763_Final_Assignment\KietNA_BC00763_Final_Assignment\obj\Debug\net8.0-windows\KietNA_BC00763_Final_Assignment.dll
+C:\COM\Final Assiment\KietNA_BC00763_Final_Assignment\KietNA_BC00763_Final_Assignment\obj\Debug\net8.0-windows\refint\KietNA_BC00763_Final_Assignment.dll
+C:\COM\Final Assiment\KietNA_BC00763_Final_Assignment\KietNA_BC00763_Final_Assignment\obj\Debug\net8.0-windows\KietNA_BC00763_Final_Assignment.pdb
+C:\COM\Final Assiment\KietNA_BC00763_Final_Assignment\KietNA_BC00763_Final_Assignment\obj\Debug\net8.0-windows\KietNA_BC00763_Final_Assignment.genruntimeconfig.cache
+C:\COM\Final Assiment\KietNA_BC00763_Final_Assignment\KietNA_BC00763_Final_Assignment\obj\Debug\net8.0-windows\ref\KietNA_BC00763_Final_Assignment.dll
+C:\COM\Final Assiment\KietNA_BC00763_Final_Assignment\KietNA_BC00763_Final_Assignment\obj\Debug\net8.0-windows\KietNA_BC00763_Final_Assignment.Form2.resources
